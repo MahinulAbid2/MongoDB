@@ -1,3 +1,9 @@
+
+![MongoDB-chart1](https://github.com/MahinulAbid2/MongoDB/assets/70069009/35e2b577-24cc-4435-a74b-b726f45b48d5)
+
+<br>
+
+
 # Before Starting:
 * Finish `Node.js` basic.
 * This note requires installing:
