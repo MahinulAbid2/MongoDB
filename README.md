@@ -3,6 +3,11 @@
 
 <br>
 
+![crud-annotated-mongodb-insertOne bakedsvg](https://github.com/MahinulAbid2/MongoDB/assets/70069009/fcab0b1f-5f96-495f-9f14-0d4682561de3)
+
+
+<br>
+
 
 # Before Starting:
 * Finish `Node.js` basic.
